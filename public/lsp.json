@@ -1,0 +1,149 @@
+[
+  {
+    "paths": [
+      {
+        "target_ip": "10.0.0.45",
+        "path": [ "10.0.0.2", "10.0.0.15", "10.0.0.45" ],
+        "target_hostname": "nikhef-rack347_1",
+        "dc_name": "NIKHEF",
+        "hardware_type": "NetIron MLXe-32 (V)",
+        "name": "NL-ix NIKHEF Rack347 BACKB MLXe32 switch",
+        "ip": "10.0.0.45",
+        "@timestamp": "2018-01-18T15:05:43.231Z",
+        "commercial_site": "Amsterdam",
+        "lon": 4.95084,
+        "hardware_name": "NIKHEF MLX rack 347 switch",
+        "dc_site": "",
+        "location": {
+          "lat": 52.3564,
+          "lon": 4.95084
+        },
+        "dc_country": "NL",
+        "lat": 52.3564,
+        "dc_city": "Amsterdam"
+      },
+      {
+        "target_ip": "10.0.0.54",
+        "path": [ "10.0.0.2", "10.0.0.15", "10.0.0.45", "10.0.0.54" ],
+        "target_hostname": "newtelco-fr1_1",
+        "dc_name": "NewTelco",
+        "hardware_type": "NetIron MLXe-16 (V)",
+        "name": "NL-ix NewTelco FR1 MLX switch",
+        "ip": "10.0.0.54",
+        "@timestamp": "2018-01-18T15:05:43.231Z",
+        "commercial_site": "Frankfurt",
+        "lon": 8.63176,
+        "hardware_name": "NewTelco FR1 MLX Switch",
+        "dc_site": "",
+        "location": {
+          "lat": 50.0997,
+          "lon": 8.63176
+        },
+        "dc_country": "DE",
+        "lat": 50.0997,
+        "dc_city": "Frankfurt am Main"
+      },
+      {
+        "target_ip": "10.0.0.37",
+        "path": [ "10.0.0.2", "10.0.0.15", "10.0.0.45", "10.0.0.58", "10.0.0.37" ],
+        "target_hostname": "telehouse-pa2-bb_1",
+        "dc_name": "Telehouse",
+        "hardware_type": "NetIron MLXe-16 (V)",
+        "name": "NL-ix Telehouse PA2 MLX switch",
+        "ip": "10.0.0.37",
+        "@timestamp": "2018-01-18T15:05:43.231Z",
+        "commercial_site": "Paris 2",
+        "lon": 2.38354,
+        "hardware_name": "Telehouse PA2 MLX switch",
+        "dc_site": "Telehouse Paris 2",
+        "location": {
+          "lat": 48.8561,
+          "lon": 2.38354
+        },
+        "dc_country": "FR",
+        "lat": 48.8561,
+        "dc_city": "Parijs"
+      },
+      {
+        "target_ip": "10.0.0.35",
+        "path": [ "10.0.0.2", "10.0.0.55", "10.0.0.56", "10.0.0.62", "10.0.0.35" ],
+        "target_hostname": "telehouse-north-bb_1",
+        "dc_name": "Telehouse",
+        "hardware_type": "NetIron MLXe-16 (V)",
+        "name": "NL-ix Telehouse North MLX switch",
+        "ip": "10.0.0.35",
+        "@timestamp": "2018-01-18T15:05:43.231Z",
+        "commercial_site": "North",
+        "lon": -0.0029163,
+        "hardware_name": "Telehouse North MLX switch",
+        "dc_site": "Telehouse North",
+        "location": {
+          "lat": 51.5116,
+          "lon": -0.0029163
+        },
+        "dc_country": "UK",
+        "lat": 51.5116,
+        "dc_city": "London"
+      },
+      {
+        "target_ip": "10.0.0.90",
+        "path": [ "10.0.0.2", "10.0.0.55", "10.0.0.90" ],
+        "target_hostname": "interxion-sto3_1",
+        "dc_name": "Interxion Sverige",
+        "hardware_type": "Netiron MLXe-16 (V)",
+        "name": "NL-ix Interxion STO3 MLX Switch",
+        "ip": "10.0.0.90",
+        "@timestamp": "2018-01-18T15:05:43.231Z",
+        "commercial_site": "STO3",
+        "lon": 17.9159,
+        "hardware_name": "InterXion STO3  Backbone MLX switch",
+        "dc_site": "STO3",
+        "location": {
+          "lat": 59.4225,
+          "lon": 17.9159
+        },
+        "dc_country": "SE",
+        "lat": 59.4225,
+        "dc_city": "Stockholm"
+      },
+      {
+        "target_ip": "10.0.0.75",
+        "path": [ "10.0.0.2", "10.0.0.43", "10.0.0.45", "10.0.0.58", "10.0.0.37", "10.0.0.75" ],
+        "target_hostname": "interxion-mrs1_1",
+        "dc_name": "Interxion France",
+        "hardware_type": "NetIron MLXe-16 (V)",
+        "name": "NL-ix Interxion MRS1 MLX switch",
+        "ip": "10.0.0.75",
+        "@timestamp": "2018-01-18T15:05:43.231Z",
+        "commercial_site": "MRS1",
+        "lon": 5.37109,
+        "hardware_name": "InterXion MRS1 MLX switch",
+        "dc_site": "MRS1",
+        "location": {
+          "lat": 43.3104,
+          "lon": 5.37109
+        },
+        "dc_country": "FR",
+        "lat": 43.3104,
+        "dc_city": "Marseille"
+      }
+    ],
+    "host_ip": "10.0.0.48",
+    "dc_name": "NedZone",
+    "hardware_type": "NetIron MLX-4 (V)",
+    "name": "NL-ix Nedzone Steenbergen switch",
+    "ip": "10.0.0.48",
+    "@timestamp": "2018-01-18T15:05:43.231Z",
+    "commercial_site": "Nedzone Datacenter",
+    "lon": 4.30499,
+    "hardware_name": "Nedzone Steenbergen MLX switch",
+    "dc_site": "Nedzone Datacenter",
+    "location": {
+      "lat": 51.5876,
+      "lon": 4.30499
+    },
+    "dc_country": "NL",
+    "lat": 51.5876,
+    "dc_city": "Steenbergen"
+  }
+]
